@@ -1,4 +1,4 @@
-# Hello, I'm Ashutosh Raj 👋
+# Hello, I'm Ashutosh Raj 
 
 Pursuing B.Tech CSE (Cybersecurity & Digital Forensics)  
 B.Tech CSE | 1st Year  
