@@ -52,7 +52,7 @@ More projects coming soon 🚀
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/ashutosh-raj-0ba193380
 - GitHub: https://github.com/HelloAshu001
 
 ---
