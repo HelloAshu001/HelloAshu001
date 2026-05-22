@@ -34,7 +34,6 @@
 ## 🚀 Goals for 2026
 
 - Contribute to Open Source
-- Build Real-World Projects
 - Strengthen DSA & Python
 - Learn Ethical Hacking Basics
 
@@ -53,7 +52,7 @@ More projects coming soon 🚀
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ashutosh-raj-0ba193380
-- GitHub: https://github.com/HelloAshu001
+- Email: ashutoshmlgj@gmail.com
 
 ---
 
